@@ -1,3 +1,4 @@
+//keyboard Shortcuts
 [
   { "key": "ctrl+c",   "command": "editor.action.clipboardCopyAction",
                        "when": "editorTextFocus && !inDebugRepl" },
